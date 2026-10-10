@@ -1,0 +1,201 @@
+model,run,agent_id,name,age,gender,education,personality,devices,work_experience,domain_of_work,country,reason,updated_agent,vulnerable
+qwen3-8b,0,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,0,2,Unknown,68 | Gender: Female | Education: PhD | Personality,Unknown,Unknown,"creative, introverted, and determined. Domain is Arts, different from the others. Country is Japan, making it unique.","tablet/smartwatch, smartphone/e",Unknown,Unknown,Unknown,"Sociable nature increases trust in interactions, uses smartphone (less secure), retail work exposes to customer data scams","Name: Lucas Fernandes | Age: 45 | Gender: Male | Education: Master's | Personality: Detail-oriented, cautious, skeptical | Devices: Laptop, password manager | Work Experience: Senior | Domain: IT Security | Country: Brazil  
+
+(295 characters)  
+</answer>  
+
+Answer: Agent 2  
+Reason: Sociable nature",Yes
+qwen3-8b,0,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,1,1,Aisha Patel,24,Female,Undergraduate,"Analytical, curious, introverted","Laptop, smartwatch",Junior (1 year),IT,India,,,No
+qwen3-8b,1,2,Carlos Mendez,42,Male,Master's,"Charismatic, pragmatic, impatient","Smartphone, tablet",Mid (8 years),Healthcare,Mexico,,,No
+qwen3-8b,1,3,Leila Nakamura,68,Non,PhD,"Thoughtful, empathetic, reserved",E,Senior (25 years),Education,Japan,,,No
+qwen3-8b,2,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,2,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,2,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,3,1,Amina Patel,24,Female,Undergraduate,"Curious, empathetic, introverted","Laptop, smartwatch",Junior (2),IT,India,"Introverted, junior IT worker with smartwatch and laptop - less likely to have advanced security training, may engage in casual online behavior, and lacks experience identifying sophisticated phishing attempts. Updated Agent (make them less vulnerable): - Name: Zainab - Age: 24 - Gender: Female - Education: Graduate Certificate in Cybersecurity - Personality: Inquisitive and cautious - Devices: Encrypted laptop, biometric smartwatch - Work Experience: Intermediate (3) - Domain of Work: Cybersecu","(make them less vulnerable):
+- Name: Zainab
+- Age: 24
+- Gender: Female
+- Education: Graduate Certificate in Cybersecurity
+- Personality: Inquisitive and cautious
+- Devices: Encrypted laptop, biometric smartwatch
+- Work Experience: Intermediate (3)
+- Domain of Work: Cybersecurity
+- Country: India
+Answer: Agent 1
+Reason: Introverted, junior IT worker with smartwatch and laptop - less likely to have advanced security training, may engage in casual",Yes
+qwen3-8b,3,2,Marcus Lee,42,Male,Master’s,"Analytical, ambitious, pragmatic","Tablet, VR headset",Senior (10),Finance,USA,,,No
+qwen3-8b,3,3,Yara Al,68,Non,PhD,"Wise, compassionate, independent",E,Mid (15),Healthcare,UAE,,,No
+qwen3-8b,4,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,4,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,4,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,5,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,"Young, curious, tech-savvy, uses smartphone, junior in IT—likely to click suspicious links out of curiosity, lacks security training, and smartphone vulnerabilities.","- Name: Amina
+- Age: 30
+- Gender:",Yes
+qwen3-8b,5,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,5,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,6,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,6,2,Unknown,Unknown,Unknown,Unknown,Unknown,tablet and laptop. Work experience mid,Unknown,Unknown,Unknown,,,No
+qwen3-8b,6,3,Unknown,Unknown,Unknown,Unknown,Unknown,e,Unknown,Unknown,Unknown,,,No
+qwen3-8b,7,1,Sofia Alvarez,19,Female,High School,"Adventurous, Creative, Open","Smartphone, Wearable Fitness Tracker",Junior (0 years),Retail,Mexico,,,No
+qwen3-8b,7,2,Jamal Carter,35,Male,Graduate Diploma,"Reliable, Strategic, Patient","Laptop, Bluetooth Headphones",Mid (,Unknown,Unknown,,,No
+qwen3-8b,7,3,Yuki Tanaka,68,Non,PhD,"Wise, Compassionate, Observant",E,Mid (15 years),Arts,Japan,,,No
+qwen3-8b,8,1,Unknown,Unknown,Unknown,"Undergraduate. Personality: curious, social. Devices: smartphone, smartwatch. Work Experience: Junior (1 year). Domain: IT. Country: Nigeria.",Unknown,Unknown,Unknown,Unknown,Unknown,"Young, curious, uses smartphones, works in IT where cybersecurity is critical, leading to higher exposure. Then, the updated agent would have changes to reduce vulnerability: maybe older, more cautious, uses secure devices, etc. But since the user wants to generate this from scratch, I need to outline the three agents as per their specs, then pick the most vulnerable. So, putting it all together now. Alright, here's my thought process broken down into steps: **Step 1: Define Three Agents with Di","would have changes to reduce vulnerability: maybe older, more cautious, uses secure devices, etc.
+
+But since the user wants to generate this from scratch, I need to outline the three agents as per their specs, then pick the most vulnerable.
+
+So, putting it all together now.
+Alright, here's my thought process broken down into steps:
+
+**Step 1: Define Three Agents with Diverse Attributes**
+- **Agent 1**: Young (22), Female, Nigerian, Undergraduate, Curious & Social, Smartphones/Smartwatch, Junior ",Yes
+qwen3-8b,8,2,"Hiroshi, Japanese, Shinto/Buddhist.",Unknown,Unknown,"Master's. Personality: analytical, reserved. Devices: laptop, tablet. Work Experience: Senior (8 years). Domain: Healthcare. Country: Japan.",Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,8,3,"Priya, Indian, Hindu.",Unknown,Unknown,"PhD. Personality: empathetic, wise. Devices: e",Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,9,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,9,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+qwen3-8b,9,3,Unknown,Unknown,Unknown,"(High school/Undergraduate/Master's/PhD)""—so each agent's education can be any of those four, but each agent must have a different one? Or just that across the agents, they are different?",Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+mistral-7b,0,1,Zara Alvarez (Brazilian Muslim woman),24,Female,Master's in Computer Science,"Ambitious, creative, and introverted","iPhone, MacBook Pro, Apple Watch",Junior Software Engineer (2 yrs),IT,Brazil,,,No
+mistral-7b,0,2,Omar Johnson (African American Christian man),45,Male,PhD in Education Policy,"Dedicated, empathetic, and extroverted","Samsung Galaxy S21, Lenovo ThinkPad X1 Carbon Gen 9",Senior Research Analyst (15 yrs),Education,USA,,,No
+mistral-7b,0,3,Maria Vasquez (Peruvian Hindu non,62,Non,High School Diploma,"Patient, humble, and outgoing","Nokia 3310, Windows Surface Go",Retail Clerk (40 yrs),Retail,Peru,"Maria Vasquez's advanced age, lack of formal education, and using an older device like Nokia 3310 makes her more susceptible to phishing attacks. She may not be as familiar with the latest security measures or updates, increasing her vulnerability.","- Name: Maria Vasquez
+- Age: 62
+- Gender: Non-binary
+- Education: Basic Cybersecurity Course (recently completed)
+- Personality: Patient, humble, and outgoing
+- Devices: Android Smartphone, Secure Laptop
+- Work Experience: Retail Clerk (40 yrs)
+- Domain of Work: Retail
+- Country: Peru",Yes
+mistral-7b,1,1,Amina Ali,25,Female,Bachelor's in Computer Science,"Ambitious, Analytical, Creative","Smartphone, Laptop, Tablet","Junior Developer, 2 years",IT,Egypt,,,No
+mistral-7b,1,2,Carlos Rodriguez,45,Male,Master's in Business Administration,"Innovative, Detailed, Calm","Smartphone, Laptop","Senior Manager, 15 years",Finance,Brazil,,,No
+mistral-7b,1,3,Mei Zhang,62,Non,PhD in Psychology,"Empathetic, Curious, Introspective","Desktop PC, Kindle","Professor, 30 years",Education,China,"Age, extensive education, non-standard devices, and long work experience might make this individual less aware of common phishing tactics.","- Name: Zhang Mei
+- Age: 62
+- Gender: Non-binary
+- Education: PhD in Cybersecurity
+- Personality: Vigilant, Inquisitive, Tech-savvy
+- Devices: Laptop, Secure Smartphone
+- Work Experience: Professor, 30 years
+- Domain of Work: Cybersecurity Education
+- Country: China",Yes
+mistral-7b,2,1,Fatima Ahmed,24,Female,Master's in Computer Science,"Introverted, analytical, responsible","iPhone X, MacBook Air","Junior IT Analyst, 1 year",IT,Pakistan,,,No
+mistral-7b,2,2,Carlos Rodriguez,36,Male,Undergraduate in Biology,"Outgoing, creative, adaptable","Samsung Galaxy S9, Surface Pro 6",Mid,Healthcare,Brazil,,,No
+mistral-7b,2,3,Maria Gonzales,62,Non,PhD in Philosophy,"Curious, empathetic, introverted","iPad, MacBook Pro","Senior Professor, 35 years",Arts,Spain,"Their advanced age, introverted personality, and use of a MacBook Pro may make them more susceptible to phishing attacks due to less familiarity with modern threats, potential isolation which could lead to fewer warnings about phishing, and the perceived security of Apple products.","- Name: Maria Gonzales
+- Age: 62
+- Gender: Non-binary
+- Education: PhD in Philosophy
+- Personality: Cautious, empathetic, tech-savvy
+- Devices: iPad, MacBook Pro (updated to include additional anti-malware software)
+- Work Experience: Senior Professor, 35 years
+- Domain of Work: Arts
+- Country: Spain
+
+Updated Agent description: An experienced, non-binary senior professor with a cautious and empathetic demeanor who has enhanced their digital security by installing additional anti-malware software",Yes
+mistral-7b,3,1,Aisha Ahmed,24,Female,Undergraduate,"Ambitious, Curious, Independent","Smartphone, Laptop","Junior IT Specialist, 2 years",IT,United States,"Young age, curious personality could lead to unintentional clicks; lack of experience with potential threats in IT domain; uses a smartphone that may be easier to target.","- Name: Aisha Ahmed
+- Age: 24
+- Gender: Female
+- Education: Undergraduate
+- Personality: Cautious, Focused, Tech-Savvy
+- Devices: Smartphone, Laptop + Security App
+- Work Experience: Junior IT Specialist, 2 years
+- Domain of Work: IT
+- Country: United States",Yes
+mistral-7b,3,2,Carlos Sánchez,45,Male,Master's in Education,"Patient, Creative, Empathetic","Tablet, Desktop PC",Mid,Education,Spain,,,No
+mistral-7b,3,3,Yara Kim,62,Non,PhD in Healthcare Administration,"Diligent, Analytical, Compassionate","Smartphone, Smartwatch","Senior Healthcare Administrator, 35 years",Healthcare,South Korea,,,No
+mistral-7b,4,1,Aisha Khan (Pakistani Muslim woman),22,Female,Bachelor's in Computer Science,"Ambitious, curious, adaptable","Smartphone, laptop, smartwatch",Junior IT analyst (1 year),IT,United States,"Younger age, ambitious personality may lead to impulsive behavior, uses a smartphone which is a common target for phishing attacks, works in IT where they may be exposed to such threats.","- Name: Aisha Alvarez
+- Age: 22
+- Gender: Female
+- Education: Bachelor's in Computer Science
+- Personality: Cautious, curious, adaptable
+- Devices: Smartphone (using security software), laptop (with strong antivirus protection), smartwatch
+- Work Experience: Junior IT analyst (1 year)
+- Domain of Work: IT
+- Country: United States",Yes
+mistral-7b,4,2,Carlos Rodriguez (Mexican Catholic man),45,Male,Master's in Education,"Patient, creative, empathetic","Tablet, e",Mid,Education,Mexico,,,No
+mistral-7b,4,3,Yara Kim (Korean Buddhist non,62,Non,PhD in Pharmacology,"Analytical, compassionate, persistent","Desktop computer, smartphone, hearing aid",Senior Research Scientist (30 years),Healthcare,South Korea,,,No
+mistral-7b,5,1,"Fatima Ali, Muslim (Pakistani origin)",25,Female,Master's in Computer Science,"Analytical, Compassionate, Perseverant","iPhone X, MacBook Pro","Junior IT Specialist, 1 year",IT,United States,"She is relatively young, less experienced in technology, has personal devices that may not have the latest security updates, and her job in IT makes her a potential target for advanced phishing attacks.","- Name: Javed Hussain
+- Age: 25
+- Gender: Male
+- Education: Master's in Computer Science
+- Personality: Analytical, Cautious, Perseverant
+- Devices: iPhone XR, MacBook Air
+- Work Experience: Junior IT Specialist, 1 year
+- Domain of Work: IT
+- Country: United States",Yes
+mistral-7b,5,2,"Eduardo Mendoza, Catholic (Mexican origin)",45,Male,Bachelor's in Finance,"Ambitious, Organized, Driven","Samsung Galaxy S9+, Lenovo ThinkPad","Senior Financial Advisor, 15 years",Finance,Mexico,,,No
+mistral-7b,5,3,"Aisha Khan, Hindu (Indian origin)",62,Non,PhD in Literature,"Creative, Introspective, Empathetic","iPad Pro, Mac Mini",Retired College Professor,Arts,India,,,No
+mistral-7b,6,1,"Aisha Alvarez (Muslim, Hispanic)",25,Female,Master's in Computer Science,"Ambitious, Creative, Introverted","MacBook Pro, iPhone X, Smartwatch",Junior Software Engineer (2 years),IT,United States,"Young age, introverted personality which may lead to less social interaction online, but her devices (MacBook Pro, iPhone X, Smartwatch) are not as secure as they could be against phishing attacks. Updated Agent (make them less vulnerable): - Name: Aisha Alvarez - Age: 25 - Gender: Female - Education: Master's in Computer Science - Personality: Ambitious, Creative, Cybersecurity Conscious - Devices: MacBook Pro + Secure VPN, iPhone X + AppLock, Smartwatch + Encrypted Communication - Work Experie","(make them less vulnerable):
+- Name: Aisha Alvarez
+- Age: 25
+- Gender: Female
+- Education: Master's in Computer Science
+- Personality: Ambitious, Creative, Cybersecurity Conscious
+- Devices: MacBook Pro + Secure VPN, iPhone X + AppLock, Smartwatch + Encrypted Communication
+- Work Experience: Junior Software Engineer (2 years)
+- Domain of Work: IT
+- Country: United States",Yes
+mistral-7b,6,2,"Ramesh Patel (Hindu, Indian)",45,Male,Undergraduate Degree in Business Administration,"Analytical, Optimistic, Outgoing","Dell Laptop, Android Phone, Fitbit",Mid,Finance,India,,,No
+mistral-7b,6,3,"Yara Rodriguez (Atheist, Cuban",62,Non,PhD in Psychology,"Compassionate, Humorous, Perfectionist","Surface Book, Samsung Galaxy, Kindle",Senior Clinical Psychologist (30 years),Healthcare,United States,,,No
+mistral-7b,7,1,Aisha Patel,24,Female,Master's in Computer Science,"Introverted, analytical, adaptable","MacBook Pro, iPhone 13 Pro Max, Apple Watch","Junior Developer, 1 year",IT,India,,,No
+mistral-7b,7,2,Carlos Rodriguez,45,Male,Bachelor's in Fine Arts,"Extroverted, creative, enthusiastic","Surface Pro 9, Samsung Galaxy S22, Fitbit Charge 5",Mid,Arts,Mexico,,,No
+mistral-7b,7,3,Sofia Kim,68,Non,PhD in Mathematics,"Reserved, logical, methodical","Lenovo ThinkPad X1 Carbon, Samsung Galaxy Note20 Ultra, Casio G","Senior Researcher, 35 years",Government,South Korea,"Older age, reserved personality, and outdated devices make them more susceptible to phishing attacks.","- Name: Yuna Park
+- Age: 68
+- Gender: Non-binary
+- Education: PhD in Mathematics
+- Personality: Improved to be cautious and technologically savvy
+- Devices: Updated to a Microsoft Surface Pro 9 and an iPhone 13 Pro Max
+- Work Experience: 35 years as a Senior Researcher
+- Domain of Work: Government
+- Country: South Korea",Yes
+mistral-7b,8,1,Aisha Ahmad (Pakistani Muslim woman),24,Female,Bachelor's in Computer Science,"Analytical, Empathetic, Curious","Smartphone, Laptop, Smartwatch",Junior Software Engineer (2 years),IT,United States,"Young age with analytical and curious personality may lead to risky behavior online, but lack of work experience and safer devices reduce vulnerability. However, using more secure apps and staying informed about potential scams can further minimize risks.","- Name: Aisha Ahmad
+- Age: 24
+- Gender: Female
+- Education: Bachelor's in Computer Science
+- Personality: Analytical, Cautious, Curious
+- Devices: Smartphone (Secure Apps), Laptop (Secure OS), Smartwatch (Safe Fitness Apps Only)
+- Work Experience: Junior Software Engineer (2 years)
+- Domain of Work: IT
+- Country: United States",Yes
+mistral-7b,8,2,Maximillian Schmidt (German Christian man),45,Male,Master's in History,"Introspective, Patient, Open","Tablet, E",Mid,Arts,Germany,,,No
+mistral-7b,8,3,Sofia Garcia (Mexican Atheist non,62,Non,PhD in Biology,"Methodical, Humorous, Determined","Smartphone, Smart Speaker, Desktop Computer",Senior Research Scientist (20 years),Healthcare,Mexico,,,No
+mistral-7b,9,1,Aisha Alhassan,24,Female,Bachelor's in Computer Science,"Ambitious, Creative, Driven","iPhone XR, MacBook Air","Junior IT Specialist, 1 year",IT,Nigeria,,,No
+mistral-7b,9,2,Carlos Rodriguez,56,Male,Master's in Public Health,"Compassionate, Analytical, Detailed","Samsung Galaxy S21, Lenovo ThinkPad Laptop","Senior Researcher, 25 years",Healthcare,Mexico,,,No
+mistral-7b,9,3,Yara Petrov,38,Non,PhD in Psychology,"Empathetic, Curious, Intellectual","iPad Pro, Mac Mini",Mid,Education,Russia,"High education level, non-binary gender, and using devices like iPad Pro and Mac Mini which may be targeted by phishers due to perceived higher income potential.","- Name: Alex Petrov (changed to a common name to reduce targeted attacks)
+- Age: 38
+- Gender: Non-binary
+- Education: PhD in Psychology
+- Personality: Cautious, Curious, Intellectual
+- Devices: iPad Mini, MacBook Air
+- Work Experience: Mid-level Professor, 10 years
+- Domain of Work: Education
+- Country: Russia",Yes
+gpt2,0,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,0,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,0,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,1,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,1,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,1,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,2,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,2,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,2,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,3,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,3,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,3,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,4,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,4,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,4,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,5,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,5,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,5,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,6,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,6,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,6,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,7,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,7,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,7,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,8,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,8,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,8,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,9,1,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,9,2,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
+gpt2,9,3,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,,No
